@@ -160,7 +160,7 @@ The application bootstrap is scheduled during the first development week. Once a
 ### Run with Docker Compose
 
 ```bash
-git clone https://github.com/<your-username>/secureagent-audit.git
+git clone https://github.com/leithsaddouriesprit/secureagent-audit.git
 cd secureagent-audit
 docker compose up --build
 ```
